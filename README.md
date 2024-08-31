@@ -23,7 +23,7 @@
 - Developing dashboards and management tools for better analytics
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn](#)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Chathushka Navod Withanage](www.linkedin.com/in/chathushka-navod-withanage)
+- **Email**: [chathushkawithanage@gmail.com](chathushkawithanage@gmail.com)
 
 Let's connect, collaborate, and code something awesome together! 🚀
