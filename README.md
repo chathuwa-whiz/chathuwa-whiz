@@ -11,6 +11,8 @@
 
 <div align="center">
 
+![snake gif](https://github.com/chathuwa-whiz/chathuwa-whiz/blob/output/github-snake-dark.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=chathuwa-whiz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chathuwa-whiz&theme=dark&hide_border=false)
