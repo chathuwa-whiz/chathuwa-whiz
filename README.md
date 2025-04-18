@@ -11,6 +11,16 @@
 
 <div align="center">
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nisalfonseka/nisalfonseka/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nisalfonseka/count.svg?"  />
+</div>
+
+<br clear="both">
+
 ![](https://github-readme-stats.vercel.app/api?username=chathuwa-whiz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chathuwa-whiz&theme=dark&hide_border=false)
